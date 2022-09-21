@@ -5,7 +5,7 @@ import os
 import random
 
 #Question 7
-os.chdir('/Users/mohamedshedeed/Documents/GIS Algorithms')
+os.chdir('/Users/mohamedshedeed/Documents/GIS Algorithms') #for group members: change the working directory to a folder on your computer where you have the .txt file
 wordle = open('Exercises/wordle-solutions-08MAY2022.txt', 'r')
 wordle = wordle.read()
 wordle = wordle.splitlines()
