@@ -1,5 +1,6 @@
 #Mohamed Shedeed
 #Exercises - Lists, Strings, and Tuples
+# Hi this is kam
 
 import os
 import random
